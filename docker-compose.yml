@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - GEMINI_API_KEY=${AIzaSyCAa28gaz3GKKaxB8Ny13cpvBe0C4agVbk}
