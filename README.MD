@@ -59,3 +59,6 @@ Crie um arquivo `.env` na raiz do projeto e adicione as seguintes variáveis:
 
 ```env
 PORT=3000
+
+Nota Pessoal
+Infelizmente, devido a problemas pessoais, não tive mais de 1 dia para criar esta aplicação. Esta é a primeira vez em que não consigo entregar um projeto dentro do prazo e peço desculpas, mas espero que meu código possa demonstrar meu nível de organização e conhecimento com construção em APIs, principalmente devido ao pequeno prazo em que trabalhei neste projeto. Desde já agradeço e me deixo à disposição.
